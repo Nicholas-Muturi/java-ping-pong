@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PingPongTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-03T09:37:43" hostname="nick-VirtualBox" time="0.003">
+<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-09T06:21:39" hostname="nick-VirtualBox" time="0.018">
   <properties/>
-  <testcase name="runPingPong_countUptoGivenNumber_ArrayList" classname="PingPongTest" time="0.003"/>
+  <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.013"/>
+  <testcase name="runPingPing_replaceMultiplesOf15_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_countUptoGivenNumber_ArrayList" classname="PingPongTest" time="0.002"/>
+  <testcase name="runPingPing_replaceMultiplesOf5_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_countUpToOne_ArrayList" classname="PingPongTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
